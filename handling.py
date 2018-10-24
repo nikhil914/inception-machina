@@ -4,7 +4,7 @@ try:
     f = open("abc.txt")                 #File not found
     for line in f:
         print(line)
-
+#Error resolved
 # except FileNotFoundError:
 #     print("File not find")
 #
